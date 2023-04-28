@@ -1,0 +1,1 @@
+# Projeto1_Jogodaforca_v2.py
